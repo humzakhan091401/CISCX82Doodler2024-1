@@ -1,4 +1,5 @@
-#Doodle Ap
+# CISCX82 Doodler
+
 This is a custom doodle app developed =using Android Studio. The app allows users to draw on a canvas with various features such as brush size adjustment, color selection, clearing the canvas, and Undo/Redo functionality.
 
 Features
